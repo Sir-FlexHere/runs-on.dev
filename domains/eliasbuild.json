@@ -1,11 +1,11 @@
 {
+  "country": "IQ",
   "name": "eliasbuild",
+  "records": {
+    "CNAME": "elias-portfolio-1k2.pages.dev"
+  },
   "owner": {
     "github": "Sir-FlexHere"
   },
-  "claimedAt": "2026-09-28T15:17:42.091Z",
-  "records": {
-    "CNAME": "elias-build.netlify.app"
-  },
-  "country": "IQ"
+  "claimedAt": "2026-09-28T15:17:42.091Z"
 }
